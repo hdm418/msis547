@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Landing Page</title>
+</head>
+<body>
+    <h1>Welcome to Our Site!</h1>
+    <video autoplay muted loop>
+        <source src="path_to_your_video.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+    <p>Check out more AI-generated content!</p>
+    <a href="content.html"><button>See More</button></a>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>More AI Content</title>
+</head>
+<body>
+    <h1>More From AI</h1>
+    <img src="path_to_your_image.jpg" alt="AI Generated Content">
+    <p>Enjoy our AI-generated artwork!</p>
+    <a href="index.html"><button>Back to Home</button></a>
+</body>
+</html>
